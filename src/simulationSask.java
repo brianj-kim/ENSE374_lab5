@@ -1,3 +1,11 @@
+/*
+	description: this simulates organisms' habitat in a world grid
+	github link: https://github.com/jiwoone/ENSE374_lab5
+	Author: Jiwoun Kim(200329205)
+	Title: Lab 5 assignment
+
+*/
+
 import java.util.Random;
 
 public class simulationSask {
